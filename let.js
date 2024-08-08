@@ -4,3 +4,5 @@ console.log(cgpa);
 let age = 34;
 age = age * 3
 console.log(age);
+let voter = age + 18;
+console.log(voter)
