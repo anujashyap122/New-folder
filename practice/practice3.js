@@ -1,4 +1,4 @@
-// what is value of variable in each line of  code
+// what is value of variable in each line of ConvolverNode
 let num = 5;
 // here value of num is 5
 let newnum = num++;
