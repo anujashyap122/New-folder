@@ -1,0 +1,10 @@
+let year = 2024;
+let newyear = year++;
+//here value will assign first then assign 
+console.log(newyear);
+newyear = ++year;
+// isme pahle value badhegi phir assign hogi
+console.log(year);
+console.log(newyear);
+
+ 
